@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @keepcalmshithappens
-- 👀 I’m interested in hardcore gaming, books and becoming a pro programmer
-- 🌱 I’m currently learning html and css (and c++)
-- 💞️ I’m looking to collaborate on anything, just hit me up :))
+- 🌱 Currently working on web programming with React and Django.  
+- 💞️ Currently studying Software Engineering at Linköping University. 
 - 📫 How to reach me: git me pls
 
 <!---
